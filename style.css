@@ -1,0 +1,15 @@
+*{
+    margin:none;
+    padding:none;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+form input, textarea, button{
+    display: block;
+    margin:20px auto;
+    width: 492px;
+    padding: 20px;
+
+}
